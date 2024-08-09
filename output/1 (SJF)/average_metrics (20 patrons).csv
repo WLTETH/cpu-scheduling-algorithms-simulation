@@ -1,0 +1,11 @@
+Metric,Value
+AvgTotalTime,7744.133333333333
+AvgThroughput,0.0026603510866666665
+AvgTurnaroundTime,2449.76
+AvgWaitTime,2071.92
+AvgResponseTime,1220.4433333333334
+Predictability_TotalTime,1790089.0488888887
+Predictability_Throughput,2.0551240400877982e-07
+Predictability_TurnaroundTime,646798.3107333333
+Predictability_WaitTime,548727.3906
+Predictability_ResponseTime,111703.4126222222
